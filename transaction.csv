@@ -1,0 +1,3 @@
+Date,Order,Amount,Fee,Provider,Status,Type,Product,Order bump,Name,Email,Payment method,Referrer
+2022-02-03,1002,1,0.03,Thinkific Payments,Complete,One Time,Subscription to Monthly South Indian Recipes,Toolkit Guide,Jane Doe,jane@doe.com,Credit Card,
+2022-02-03,1020,10,0.59,Thinkific Payments,Complete,One Time,End of year sale - A Price,,John Doe,john@doe.com,Credit Card,Monty
